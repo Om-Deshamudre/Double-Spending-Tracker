@@ -6,7 +6,7 @@ This repository contains code for a simple double-spending tracker implemented u
 ## Installation
 1. Clone this repository:
 
-git clone https://github.com/your-username/Double-Spending-Tracker.git
+git clone https://github.com/Om-Deshamudre/Double-Spending-Tracker.git
 
 
 2. Navigate to the project directory:
